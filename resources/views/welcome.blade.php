@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Test CCC
+                    Test
                 </div>
 
                 <div class="links">
